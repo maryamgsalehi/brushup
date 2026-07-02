@@ -1,3 +1,4 @@
-### brushup
-This is just a test to remember how to use github
-# I made a new line 
+# brushup
+## This is just a <ins>test</ins> to remember how to use <sub>github</sub>
+### I made a new <sup>line</sup> 
+and One more ***line***
