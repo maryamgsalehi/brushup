@@ -1,2 +1,2 @@
-# brushup
-this is just a test to remember how to use github
+### brushup
+This is just a test to remember how to use github
